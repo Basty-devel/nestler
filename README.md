@@ -17,7 +17,7 @@ This repository contains a simple, static web page that integrates a digital AI 
 The agent is powered by an external service (D-ID in this case) and is embedded directly into the HTML using a single JavaScript <script> tag. The agent was trained using the results of a personal personality test to accurately reflect my persona, along with extensive documentation on IT security, networking, and privacy to give it domain-specific knowledge.
 
 ## Features
-Interactive AI Agent: A lifelike, conversational agent that can answer questions and engage with users.
+**Interactive AI Agent:** A lifelike, conversational agent that can answer questions and engage with users.
 
 **Client-Side Integration:** The agent is fully integrated on the front-end, with no server-side components required for the agent's functionality.
 
